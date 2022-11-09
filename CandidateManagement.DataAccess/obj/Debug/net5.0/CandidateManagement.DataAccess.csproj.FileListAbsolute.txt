@@ -1,0 +1,15 @@
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\bin\Debug\net5.0\CandidateManagement.DataAccess.deps.json
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\bin\Debug\net5.0\CandidateManagement.DataAccess.runtimeconfig.json
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\bin\Debug\net5.0\CandidateManagement.DataAccess.runtimeconfig.dev.json
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\bin\Debug\net5.0\CandidateManagement.DataAccess.dll
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\bin\Debug\net5.0\CandidateManagement.DataAccess.pdb
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.dll
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\refint\CandidateManagement.DataAccess.dll
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.pdb
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\CandidateManagement.DataAccess.genruntimeconfig.cache
+C:\Users\Duy\Desktop\PRN221PE_SU22_NguyenDinhDuy\CandidateManagement.DataAccess\obj\Debug\net5.0\ref\CandidateManagement.DataAccess.dll

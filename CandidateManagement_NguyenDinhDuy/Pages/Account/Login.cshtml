@@ -1,0 +1,42 @@
+﻿@page
+@model CandidateManagement_NguyenDinhDuy.Pages.Account.LoginModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+
+<h4>Hraccount</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Hraccount.Email" class="control-label"></label>
+                <input asp-for="Hraccount.Email" class="form-control" required/>
+                <span asp-validation-for="Hraccount.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Hraccount.Password" class="control-label"></label>
+                <input type="password" asp-for="Hraccount.Password" class="form-control" required />
+                <span asp-validation-for="Hraccount.Password" class="text-danger"></span>
+            </div>
+            
+            @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+            {
+                <div class="alert alert-danger" role="alert">
+                    @Model.ErrorMessage
+                </div>
+            }
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

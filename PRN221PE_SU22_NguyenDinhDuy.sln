@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateManagement_NguyenDinhDuy", "CandidateManagement_NguyenDinhDuy\CandidateManagement_NguyenDinhDuy.csproj", "{AB44656E-CEA5-42C0-A8FF-E96EA6AD98E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateManagement.DataAccess", "CandidateManagement.DataAccess\CandidateManagement.DataAccess.csproj", "{159CBAF8-3AF6-43AF-85F5-1C64204A73D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB44656E-CEA5-42C0-A8FF-E96EA6AD98E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB44656E-CEA5-42C0-A8FF-E96EA6AD98E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB44656E-CEA5-42C0-A8FF-E96EA6AD98E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB44656E-CEA5-42C0-A8FF-E96EA6AD98E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159CBAF8-3AF6-43AF-85F5-1C64204A73D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159CBAF8-3AF6-43AF-85F5-1C64204A73D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159CBAF8-3AF6-43AF-85F5-1C64204A73D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159CBAF8-3AF6-43AF-85F5-1C64204A73D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F97403-1018-474D-9DF3-7138AFC60A74}
+	EndGlobalSection
+EndGlobal
